@@ -42,7 +42,6 @@ Despite trying various models, the best model achieved only **13% accuracy**, wh
 This project highlights the challenges of predicting **Panic Score** based on lifestyle and physiological factors alone. The low accuracy suggests that additional data, better feature engineering, or alternative modeling approaches might be necessary for meaningful predictions.
 
 ## Next Steps
-- **Feature Engineering:** Introduce additional features like stress levels, therapy sessions, and medication adherence.
 - **Data Collection:** Gather more diverse and representative data to improve variability.
 - **Modeling Approaches:** Experiment with deep learning models or ensemble techniques to enhance predictive power.
 
